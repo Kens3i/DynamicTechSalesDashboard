@@ -1,4 +1,4 @@
-# Dynamic Tech Sales Dashboard
+# DYNAMIC TECH SALES DASHBOARD
 ## MS Excel Dashboard Output
 
 ![](https://github.com/Kens3i/DynamicTechSalesDashboard/blob/main/display%20gif.gif?raw=true)
