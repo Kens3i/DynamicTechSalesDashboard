@@ -35,7 +35,7 @@ I wanted to design a dashboard which is not generic and has something unique in 
   - Made a **Sales by Months** pivot table and also a line chart out of it which contained amount in the y axis and month in the x axis.
   - Similarly made **Sales of Products** which is a **horizontal bar chart** which contained **% of products sold in x-axis** and **products** in the **y-axis**, and **Sales by Region** which is a **bar chart** which contained **regions** in the **x-axis** and **total amount of sales done** in **y-axis**.
   - Added **item** and **region filters**.
-  - Added a **timeline** whcih contained **range of months** so the user could select from which month to which the dashboard should display the details.
+  - Added **timeline** which contained **range of months** so the user could select from which month to which the dashboard should display the details.
   - **Designed** the dashboard and inserted **linked button** so that the user could move from one sheet to another.
 
 
