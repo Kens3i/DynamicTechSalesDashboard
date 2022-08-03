@@ -1,7 +1,7 @@
 # Dynamic Tech Sales Dashboard
 ## MS Excel Dashboard Output
 
-![](https://github.com/Kens3i/ExcelTimelineDashboard/blob/main/display%20gif.gif?raw=true)
+![](https://github.com/Kens3i/DynamicTechSalesDashboard/blob/main/display%20gif.gif?raw=true)
 
 ## Table of Contents
 
